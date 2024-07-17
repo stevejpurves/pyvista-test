@@ -1,6 +1,6 @@
 FROM jupyter/base-notebook:python-3.10
 
-COPY requirements.txt requirements.txt
+COPY requirements.txt ./requirements.txt
 
 RUN pip install --no-cache-dir -r requirements.txt
 # Install vtk-osmesa wheel
