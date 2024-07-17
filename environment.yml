@@ -6,3 +6,4 @@ dependencies:
   - trame
   - trame-vtk
   - trame-vuetify
+  - jupyter-server-proxy
