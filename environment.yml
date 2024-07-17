@@ -1,0 +1,8 @@
+name: pv-simple
+channels:
+  - conda-forge
+dependencies:
+  - pyvista
+  - trame
+  - trame-vtk
+  - trame-vuetify
