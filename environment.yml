@@ -7,5 +7,6 @@ dependencies:
   - trame-vtk
   - trame-vuetify
   - jupyter-server-proxy
+  - pip
   - pip:
       - jupyter-server-user-token
